@@ -1,0 +1,4 @@
+Algoritmo,Éxito,Tiempo (segundos)
+Backtracking,1,60.0251
+Greedy,0,0.0761
+CSP,1,59.8625
