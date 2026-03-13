@@ -80,6 +80,19 @@ Results show that:
 * Graph search techniques
 * Constraint Satisfaction methods
 
+## How to run
+
+Clone the repository:
+
+git clone https://github.com/juandanieltech-design/numberlink-algorithm-solver.git
+
+Navigate to the project directory:
+
+cd numberlink-algorithm-solver
+
+Run the program:
+
+python main.py
 ## Author
 
 Juan Daniel Vargas
